@@ -1,6 +1,6 @@
 version: 1
 issues:
-  serverID: art
+  serverID: demo
   trackerName: GITHUB
   regexp: \#([0-9]+)\s-\s(.+)
   keyGroupIndex: 1
