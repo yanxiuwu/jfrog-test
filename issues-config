@@ -1,0 +1,9 @@
+version: 1
+issues:
+  serverID: art
+  trackerName: GITHUB
+  regexp: \#([0-9]+)\s-\s(.+)
+  keyGroupIndex: 1
+  summaryGroupIndex: 2
+  trackerUrl: https://github.com/yanxiuwu/jfrog-test/issues
+  aggregate: true
