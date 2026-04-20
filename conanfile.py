@@ -4,7 +4,7 @@ from conan.tools.files import copy  # ✅ 必须导入
 
 class MyDemoRecipe(ConanFile):
     name = "mydemo"
-    version = "4.0.0"
+    version = "5.0.0"
 
     author = "yanxiuw"
     license = "MIT"

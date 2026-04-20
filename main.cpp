@@ -3,6 +3,7 @@
 
 int main() {
     fmt::print("Hello Conan + fmt!\n");
+    fmt::print("Hello Yan + fmt!\n");
     spdlog::info("Hello spdlog!");
     return 0;
 }
